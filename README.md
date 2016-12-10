@@ -1,1 +1,2 @@
-# demo-account-service
+# poc-account
+Account Micro Service
